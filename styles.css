@@ -1,0 +1,73 @@
+
+body {
+    font-family: 'Noto Sans JP', sans-serif; 
+    background: rgba(0, 0, 0, 0.863);
+    /* color: whitesmoke; */
+}
+
+header {
+    background-color: salmon;
+    color: white;
+    text-align: center;
+}                                 
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li{
+    list-style-type: none;
+}
+
+nav li{
+    text-align: right;
+    padding-bottom: 5px;
+}
+
+header h1{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.html-sheet{
+    background-color: mintcream;
+    width: 50%;
+    margin: auto;
+    border-radius: 2%;
+}
+
+.html-tables {
+    text-align: center;
+}
+
+.html-tables h2{
+    font-size: 30px;
+}
+
+th {
+    border: 2px solid #8c6b48;
+}
+  
+table {
+    text-align: center;
+    margin: 20px auto;
+}
+  
+td {
+    border: 2px solid #8c6b48;
+    width: 300px;
+}
+
+img{
+    border-radius: 5%;
+}
+
+footer{
+    background-color: chocolate;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
